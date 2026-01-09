@@ -22,7 +22,7 @@ Built using **AWS Lambda, Amazon Polly, Amazon S3, CloudWatch, and IAM**.
 - Amazon S3  
 - Amazon CloudWatch  
 - IAM
-- 
+  
 ## 🔊 Sample Output
 
 Example generated audio file:
